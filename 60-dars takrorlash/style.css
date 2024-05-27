@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    width: 800px;
+    height: 600px;
+    border: 1px solid rgb(174, 151, 17);
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: monospace;
+    display:flex;
+    align-items: center;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(201, 153, 153);
+
+}
+
+p{
+ font-size: 20px;
+ color: red;
+}
+/* textarea{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left:90px;
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+} */

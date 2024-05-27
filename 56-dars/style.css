@@ -1,0 +1,44 @@
+.box{
+    width: 0px;
+    height: 300px;
+    border: 1px solid rgb(203, 35, 35);
+    transform: rotate(0deg);
+    margin: 0px auto;
+    margin-left: 460px;
+    margin-top: 250px ;
+    transform: 1s linear;
+}
+
+.box3{
+    width: 0px;
+    height: 290px;
+    border: 1px solid green;
+    margin-left: 5px;
+    transform: rotate(0deg);
+    transform: 0s linear;
+    margin-top: 10px;
+}
+
+.little_box{
+    width: 5px;
+    height: 25px;
+    border: 1px solid green;
+    background-color: green;
+}
+
+.aylana{ 
+    width: 850px;
+    height: 850px;
+    border: 40px solid rgb(219, 98, 116);
+    border-radius: 500px;
+    margin: 100px auto;
+    /* margin-left: 150px; */
+    background-image: url(https://www.kindpng.com/picc/m/5-55539_transparent-broken-clock-clipart-transparent-background-clock-face.png);
+}
+
+.box2{
+    width: 5px;
+    height: 30px;
+    border: 2px solid brown;
+    background-color: rgb(62, 31, 31);
+}
